@@ -1,5 +1,8 @@
-Jogo de RPG  
+Jogo de RPG 
 
-Personagem
-Mapa 
-Habilidades
+
+
+
+Personagem,
+Mapa e
+Habilidade
